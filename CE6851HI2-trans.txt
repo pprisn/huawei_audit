@@ -1,0 +1,675 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.02.26 11:52:38 =~=~=~=~=~=~=~=~=~=~=~=
+ scre
+<m39-3-1-mdp-dsw-01>screen-length 
+<m39-3-1-mdp-dsw-01>screen-length 
+<m39-3-1-mdp-dsw-01>screen-length 0 te
+Info: The configuration takes effect on the current user terminal interface only.
+<m39-3-1-mdp-dsw-01>dis int tran
+<m39-3-1-mdp-dsw-01>dis int transceiver 
+
+ 10GE1/0/1 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :1000BASE_T
+   Connector Type                        :RJ45
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :100(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :HISILICON
+   Vendor Part Number                    :OM9150
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :032CAGAWJ8215340
+   Manufacturing Date                    :2018-8-17
+   Vendor Name                           :HISILICON
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/2 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :1000BASE_T
+   Connector Type                        :RJ45
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :100(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :WTD
+   Vendor Part Number                    :RTXL185-210
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :BP183602022703
+   Manufacturing Date                    :2018-9-9
+   Vendor Name                           :WTD
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/3 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340431996
+   Manufacturing Date                    :2018-8-24
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/4 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420650
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/5 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340342407
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/6 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340331668
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/7 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420624
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/8 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420520
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/9 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340331584
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/10 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420644
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/11 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420529
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/12 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340431949
+   Manufacturing Date                    :2018-8-24
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE1/0/13 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340330815
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/1 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :1000BASE_T
+   Connector Type                        :RJ45
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :100(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :HISILICON
+   Vendor Part Number                    :OM9150
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :032CAGAWJ8206670
+   Manufacturing Date                    :2018-8-17
+   Vendor Name                           :HISILICON
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/2 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :1000BASE_T
+   Connector Type                        :RJ45
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :100(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :HISILICON
+   Vendor Part Number                    :OM9150
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :032CAGAWJ8215530
+   Manufacturing Date                    :2018-8-17
+   Vendor Name                           :HISILICON
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/3 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340331583
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/4 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340331705
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/5 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420625
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/6 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420615
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/7 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340431965
+   Manufacturing Date                    :2018-8-24
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/8 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340341867
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/9 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340331669
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/10 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420150
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/11 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340331591
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/12 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340341871
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 10GE2/0/13 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :10GBASE_SR
+   Connector Type                        :LC
+   Wavelength (nm)                       :850
+   Transfer Distance (m)                 :30(62.5um/125um OM1)
+                                          80(50um/125um OM2)
+                                          300(50um/125um OM3)
+                                          400(50um/125um OM4)
+   Digital Diagnostic Monitoring         :YES
+   Vendor Name                           :HUAWEI
+   Vendor Part Number                    :02318169
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :HB18340420519
+   Manufacturing Date                    :2018-8-23
+   Vendor Name                           :HUAWEI
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 40GE1/0/3 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :40GBASE_CR4
+   Connector Type                        :-
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :1(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :Amphenol
+   Vendor Part Number                    :568400001
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :04531831S347585
+   Manufacturing Date                    :2018-8-7
+   Vendor Name                           :Amphenol
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 40GE1/0/4 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :40GBASE_CR4
+   Connector Type                        :-
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :1(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :Amphenol
+   Vendor Part Number                    :568400001
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :04531827S338378
+   Manufacturing Date                    :2018-7-4
+   Vendor Name                           :Amphenol
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 40GE2/0/3 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :40GBASE_CR4
+   Connector Type                        :-
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :1(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :Amphenol
+   Vendor Part Number                    :568400001
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :04531827S338378
+   Manufacturing Date                    :2018-7-4
+   Vendor Name                           :Amphenol
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+
+ 40GE2/0/4 transceiver information:
+-------------------------------------------------------------------
+ Common information:
+   Transceiver Type                      :40GBASE_CR4
+   Connector Type                        :-
+   Wavelength (nm)                       :-
+   Transfer Distance (m)                 :1(Copper)
+   Digital Diagnostic Monitoring         :NO
+   Vendor Name                           :Amphenol
+   Vendor Part Number                    :568400001
+   Ordering Name                         :
+-------------------------------------------------------------------
+ Manufacture information:
+   Manu. Serial Number                   :04531831S347585
+   Manufacturing Date                    :2018-8-7
+   Vendor Name                           :Amphenol
+-------------------------------------------------------------------
+ Alarm information:
+-------------------------------------------------------------------
+<m39-3-1-mdp-dsw-01>
